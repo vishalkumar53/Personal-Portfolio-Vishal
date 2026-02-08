@@ -1,0 +1,19 @@
+.list{
+
+    background-color: blueviolet;
+    height:1000px;
+    width:500px;
+    border-radius: 10px;
+    margin-left: 400px;
+    color: #f5f5f5;
+    background-position: fixed;
+    
+}
+.main{
+    margin-left: 20px;
+}
+#sea{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+}

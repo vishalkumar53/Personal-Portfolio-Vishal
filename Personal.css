@@ -1,0 +1,539 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0,33);
+    color: white;
+    background-repeat: no-repeat;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin: 0 23px;
+}
+.left{
+    font-size: 30px;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.leftsection{
+    width: 30%;
+    
+    font-size: 30px;
+}
+.rightsection{
+    width: 30%;
+}
+#vis{
+   color: blueviolet;
+
+}
+
+.one:hover{
+    color:rgb(153, 152,150);
+    font-size: 1.05rem;
+}
+.skillone{
+    display: flex;
+}
+.skilltwo{
+    display: flex;
+}
+#btn1{
+    height:60px;
+    width:100px;
+    border-radius: 10px;
+    
+
+    transition: background-color 2s ease;
+}
+
+#btn1:hover{
+    background-color: plum;
+}
+#btn2{
+    height:60px;
+    width:100px;
+    border-radius: 10px;
+    transition: background-color 2s ease;
+}
+#btn2:hover{
+    background-color: plum;
+}
+#btn3{
+    height:60px;
+    width:100px;
+    border-radius: 10px;
+}
+#btn4{
+    height:60px;
+    width:100px;
+    border-radius: 10px;
+}
+h1{
+    color:rgba(0, 149, 255, 0.555)
+}
+
+#ser{
+    color: rgba(0, 149, 255, 0.555);
+}
+.skills{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.flexbox{
+    margin-top: 30px;
+   
+    background-color: white;
+    height: 1px;
+    width: 1200px;
+    
+}
+.vertical{
+    height: 100px;
+    width:1px;
+    background-color: white;
+    margin: 0 120px;
+}
+.verticals{
+    display: flex;
+   
+}
+.verticalone{
+    position: relative;
+    margin-top: 105px;
+}
+.verticaltwo{
+    position: relative;
+    margin-top: 105px;
+}
+.verticalthree{
+    position: relative;
+    margin-top: 105px;
+}
+.verticalfour{
+    position: relative;
+    margin-top: 105px;
+}
+.verticalfive{
+    position: relative;
+    margin-top: 105px;
+}
+#js{
+    height: 48px;
+    width: 48px;
+}
+.html{
+    margin-top: -175px;
+}
+.flexbox{
+    margin-top: 100px;
+}
+
+.css{
+    margin-top: -175px;
+}
+.js{
+    margin-top: -175px;
+}
+.python{
+    margin-top: -175px;
+}
+.java{
+    margin-top: -175px;
+}
+#line{
+    color: gray;
+}
+.vishal{
+    margin-top: 50px;
+}
+.con{
+    margin-left: 600px;
+    margin-top: 40px;
+}
+#phone{
+    height: 23px;
+    width: 23px;
+}
+#email{
+    width: 23px;
+    height: 23px;
+}
+.contacts{
+    display: flex;
+}
+.email{
+    margin-left: 400px;
+}
+.phone{
+    margin-left: 400px;
+}
+pre{
+    color: gray;
+}
+#copy{
+    height: 23px;
+    width: 23px;
+}
+.copy{
+    display: flex;
+    margin-left: 600px;
+}
+#design1{
+    margin-left: 500px;
+}
+#design2{
+    margin-left: 500px;
+}
+.first{
+    margin-top: 100px;
+}
+#element{
+      color: blueviolet;
+
+}
+#image{
+    height: 300;
+    width: 200px;
+    margin-bottom: 150px;
+}
+#heading{
+    color: gray;
+}
+li:hover{
+    color: burlywood;
+}
+
+.buttons{
+    margin-top: 50px;
+}
+#abo{
+    color: purple;
+}
+#ab{
+    margin-top: 6px;
+}
+#btn1{
+    height:50px;
+    width: 150px;
+    background-color: purple;
+    border-radius: 10px;
+    border:2px solid white;
+}
+#btn2{
+    margin-left: 30px;
+    height:50px;
+    width: 150px;
+    background-color: purple;
+     border:2px solid white;
+}
+p:hover{
+    color: aquamarine;
+}
+#ser{
+    color: white;
+}
+#flexbox1{
+    width: 25%;
+    height: 300px;
+    margin-left: 40px;
+    background-color: rgb(0, 0,33);
+    border: 1px solid wheat;
+
+}
+#flexbox2{
+    width: 25%; 
+    height: 300px;
+    margin-left: 50px;
+    background-color: rgb(0, 0,33);
+    border: 1px solid wheat;
+
+    
+}
+#flexbox3{
+    width: 25%;
+     background-color: rgb(0, 0,33);
+    height: 300px;
+    margin-left: 60px;
+    border: 1px solid wheat;
+}
+
+#ab{
+    font-size: 20px;
+    margin-top: 10px;
+}
+#work1{
+    width:100%;
+    height: 300px;
+}
+#work2{
+    width:100%;
+    height: 300px;
+}
+#work3 {width:100%;
+    height: 300px;
+}
+.worksdone{
+    display: flex;
+}
+.border{
+    border-radius: 15px;
+}
+.work{
+    margin-left: 100px;
+}
+
+
+#phon{
+    width: 25px;
+    height: 25px;
+
+}
+#emai{
+    width: 25px;
+    height: 25px;
+    
+}
+.phon{
+    display: flex;
+}
+.emai{
+    display: flex;
+}
+p{
+    margin-left: 20px;
+}
+.contactme{
+    display: flex;
+}
+#mes{
+    height: 100px;
+    width: 500px;
+}
+.coltwo{
+    margin-left: 400px;
+}
+#name{
+    width: 500px;
+    height: 30px;
+}
+#em{
+    width: 500px;
+    height: 30px;
+}
+.border1{
+    border-radius: 10px;
+}
+.contact{
+    margin-top: 100px;
+
+}
+.contactme{
+    margin-top:20px ;
+}
+#con{
+    color: white;
+}
+.contact{
+    margin-left:180px ;
+}
+h1{
+    font-weight: bolder;
+
+}
+#subbtn{
+    width: 200px;
+    height: 50px;
+    background-color: purple;
+    margin-left: 400px;
+    margin-top: 20px;
+    border-radius: 12px;
+
+}
+.emai{
+    margin-top: 20px;
+}
+#dev{
+    margin-top: 2px;
+    color: purple;
+}
+.phon{
+    margin-top: 20px;
+}
+#fr{
+    margin-top: 10px;
+}
+.c{
+    margin-top: 20px;
+}
+.copyright{
+    margin-top: 30px;
+    height:50px;
+    background-color: gray;
+}
+#copy-icon{
+    width:20px;
+    height:20px;
+}
+li{
+    font-size: 25px;
+}
+li:hover{
+    border-bottom: 4px solid aquamarine;
+    color: aqua;
+}
+#flexbox1{
+    justify-content: center;
+    text-align: center;
+    
+}
+#flexbox2 {
+
+    
+}
+#flexbox3 {
+    
+    
+}
+#web{
+    color: white;
+    font-size: 30px;
+}
+.data{
+    margin-top: 30px;
+    
+}
+.data pre{
+    margin-top: 12px;
+    
+}
+.data h2{
+    margin-left: 60px;
+}
+.dataone pre{
+    margin-top: 12px;
+    
+}
+.datatwo {
+    margin-top: 12px;
+    
+}
+.dataone h2{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.datatwo pre{
+    font-size: 15px;
+    color: white;
+}
+.datatwo h2{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+#flexbox1:hover{
+
+width: 25%;
+height: 300px;
+background-image: url(work-1.png);
+transition: width 2s height 4s;
+background-size: cover;
+}
+#flexbox2:hover{
+
+width: 25%;
+height: 300px;
+background-image: url(work-2.png);
+transition: width 2s height 4s;
+background-size: cover;
+}
+#flexbox3:hover{
+
+width: 25%;
+height: 300px;
+background-image: url(work-3.png);
+transition: width 2s height 4s;
+background-size: cover;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.experience{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#exp1{
+    margin-left: 30px;
+    height:300px;
+    width: 25%;
+ border:1px solid goldenrod;
+  border-radius: 20px;
+}
+#exp2{
+    margin-left: 30px;
+    height:300px;
+    width: 25%;
+ border:1px solid goldenrod;
+ border-radius: 20px;
+}
+#exp3{
+    margin-left: 30px;
+    height:300px;
+    width: 25%;
+ border:1px solid goldenrod;
+  border-radius: 20px;
+}
+.exp{
+    display: flex;
+    margin-top: 40px;
+}
+#view {
+    font-size: 15px;
+    color:peru;
+}
+#employer{
+    font-size: 20px;
+}
+.flexboxone{
+    border: 1px solid burlywood;
+    width:17%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 40px;
+    text-align: center;
+}
+.servone{
+    display: flex;
+}
+.flexboxones{
+    border: 1px solid burlywood;
+    width:15%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 200px;
+    text-align: center;
+}
+.servtwo{
+    display: flex;
+    margin-top: 50px;
+}
+.serv{
+    margin-top: 100px;
+}
+.servone{
+    margin-top: 80px;
+}
+#service{
+    margin-left: 160px;
+}
